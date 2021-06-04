@@ -1,0 +1,6 @@
+{
+    "baseUrl": "https://www.adflix.com" ,
+    "port": 80 ,
+    "rootPath": "./ud" ,
+    "pathSize": ["sm", "md", "lg"]
+}

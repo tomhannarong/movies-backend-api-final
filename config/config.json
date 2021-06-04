@@ -1,0 +1,11 @@
+{
+    "streaming": {
+        "username": "root" ,
+        "password": "" ,
+        "database": "streaming" ,
+        "host": "localhost" ,
+        "dialect": "mysql"
+    }
+}
+
+   
